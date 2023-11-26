@@ -1,0 +1,26 @@
+{
+  "name": "Julia Nichols",
+  "age": 49,
+  "address": {
+    "street": "Posjem Avenue",
+    "city": "Kodsuug",
+    "state": "AK",
+    "zip": "92228"
+  },
+  "contact": {
+    "phone": "(763) 669-1288",
+    "servicePhone": "800418552"
+  },
+  "birthday": "1997-04-09T23:43:23.579Z",
+  "ip": "39.227.201.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Gitovo nolfef zimmehlot ges owe tefop ofpezje doteh coc ta jen puah zufzapjij zuhadjaf vawci or. Zida ge deside kid rutjacdof hupeiz oheifo mij tib ebkadot nu akovaf raszurmi dil bi. Suor voj azver sakme nec akiaw vafucsog esne dis onwu nohjegti wenog. Cehukos nefa ita aptinet hehkap bewja cozziko paj boke bam ga vorab irboh. Haf faidtik kute buf fiozuhuw cumib hipnom wijmowi con wo ti zukbovu. Fiufuozu wisjucges fu pe vovomzu kah tik et domzeplu hogupu bif vojim davmap im tatnodho fil. Orahozup ceztigja ti joec emeef odoven zezik dakaiw herlow ef hiv mesuc dov puuwowa me haihi fab.",
+    "bio": "Osi va bokevin meuto wuzic rebsig pewhem pelwov huhe ficij ivitamno ohki noku biptutab se nun cojziggak. Saedu bi zamdomoso jomegi wewucbez morhuhi moriksi ceh cugbaz ke jun fo fotirod lase. Kapobho mulibne cope edcise kimgof isu lonergi id isanifdu jal sok pak. Tuhadoko meij izauk pajefok voz utiba azudisen ni koj mi udacimlu za im bicac huspocu rokzili ri boge. Nitolu wanumof zijekwij abbosi karnombe memsej dagak vu zi ase caw huco baeha cab citu uzo jiz. Pasudioz ejace feano jikdifuwo jubacu geluwol ipca bepucul eso bidkacig rugje zoptoska rid."
+  },
+  "apiKey": "ebf68258876b35373d1b1c8038ba8061610d310f176f6d817d04d8e4bea1939b",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
