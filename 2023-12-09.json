@@ -1,0 +1,26 @@
+{
+  "name": "Josephine Potter",
+  "age": 32,
+  "address": {
+    "street": "Asazon Turnpike",
+    "city": "Nicimajo",
+    "state": "IL",
+    "zip": "76009"
+  },
+  "contact": {
+    "phone": "(827) 835-1190",
+    "servicePhone": "800879622"
+  },
+  "birthday": "1978-10-05T00:06:34.950Z",
+  "ip": "251.120.161.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Wodpiese ofisi ro adgoh lagoofu lebid osojalel diwubsa rah su fohza rezefe unidva kekodoeju ziufi geguevi ne tafgucri. Birago jejisiv af citosraz ennas fob hemim sobi waloiz de te vikacpir hi ji carmalci. Ziida todcu wuune luvanab wakih ohu ti petad robobirab kakked oh jazi.",
+    "bio": "Rigvi uksevu puguvnaw ito li riljomha wibjeji saonido eg ranaw padlemnab ohamisbe regmem babbacfu joha. Tas wugon upnul sew zu avowiada tincic rovfe rauno bivopates jazmidin bo. Guudo domniet origutni ipawehu dumaplu pilro tuzaj tisze cig kid lir nu la gomze oc harbewfug ru."
+  },
+  "apiKey": "56505930bea52a0bd91209221266aa5e4b131590f412077c6d00b2b705047b70",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
