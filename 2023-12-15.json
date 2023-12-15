@@ -1,0 +1,26 @@
+{
+  "name": "Vera Jordan",
+  "age": 24,
+  "address": {
+    "street": "Pizev Road",
+    "city": "Ivpabav",
+    "state": "OR",
+    "zip": "64554"
+  },
+  "contact": {
+    "phone": "(752) 216-1765",
+    "servicePhone": "800576245"
+  },
+  "birthday": "1967-10-02T10:23:12.446Z",
+  "ip": "184.140.101.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Veco soz hip ok ta iwefuwul jikuh dizuma cefewi lop wilim eputiv. Ki lalwaj vis voina dolo tora ce nihebeb ejoruav zuhhif erosidiw bin juka potlos hun sem. Wemog lozesel ihugusoc dal vup wazmi pu ozla vazac wahavo esehasa zasjic. Mirgi raci hoho viwore van zimos orfeeta zisu wu ecige jag eta.",
+    "bio": "Asgan tel vobbe vuwelrup itva poug lizgivi eraoz ripowe moemwi gofi of wecwa. Dipe ju zithozhor jukporon hovum dombiduc imdoj kim nusa cefgon ibjo teh zofbegu okiireva cur sujura vo avbivar. Ga rairlom ca vuhjujsi ruc jolzaud nati ufunoaco ruhollob lew zulaveij dof vop mufikoz hit zetdualu. Ab tiew zi wev koh hej emade filwesis fapnelwos dova hakiwib he vu kavesiipe hod jebguj. Nonomku dev katpu id roj rukpi acnew zo puukuwew ejcedco meunebo vo pemi wahcatur bilrod. Kehca ber waw rowilzas balaga mogramnel ke ti nuucrin widponse fagnov fazjup le."
+  },
+  "apiKey": "b8ae827f5d21a48277c13795fab96b926e6a7ddcfa2d500a728d7bfd9f0ed00b",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
