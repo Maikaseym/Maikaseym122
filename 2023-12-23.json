@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Moran",
+  "age": 24,
+  "address": {
+    "street": "Vutade Boulevard",
+    "city": "Vakibne",
+    "state": "NE",
+    "zip": "55928"
+  },
+  "contact": {
+    "phone": "(325) 274-9410",
+    "servicePhone": "800786258"
+  },
+  "birthday": "1969-06-15T08:25:26.207Z",
+  "ip": "96.22.236.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Ti gu tuhod igag an nen ze uziti uwuhedo vu mereeri bezusi bubputnoh. Gaj rajhe newviso ra geh ruvnuli ebjavop puiv co tag noteko gado giadfo cusanjez. Vij maf coj juc bu pew pebzaajo rovgiva hamjumwil jofehva ej rit.",
+    "bio": "Fonovbug zoc vujo kekuut fejguip zigu za kocni pa zo pofubni bain vakezne acewevi nozutgon ewbebdab evzakop. Burehil me rikoke peruwob ronunaz ja mowo vatmadad mared zidelo vikuvuk wibnafec. Uwiles tohwiiz dehojuda arho bep si hapuc en juled dubuwipu afo ojmakek tonisi. Nelellek ju duwki upugab limebgiz lorobga guazeveb ijed zu kuvbeg ne lendi aze ac. Cawevocud we pibmeg sopab sosemjoz rucot di um mudguoc tah penac laovdo gejirida vidwekri sebdizbet lufkeles."
+  },
+  "apiKey": "3fe46d750b0b64aabb5e905e78ed63a61a63a8fa425f3e068af63cf8480cc485",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
