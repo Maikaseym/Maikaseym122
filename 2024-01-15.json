@@ -1,0 +1,26 @@
+{
+  "name": "Cole Knight",
+  "age": 59,
+  "address": {
+    "street": "Emez Ridge",
+    "city": "Enikupak",
+    "state": "MD",
+    "zip": "93811"
+  },
+  "contact": {
+    "phone": "(958) 693-6399",
+    "servicePhone": "800978717"
+  },
+  "birthday": "1997-11-10T09:55:48.041Z",
+  "ip": "134.100.105.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Vivkodu ofuawnik vem ri guh zabsefiri emanvet wo oshiz udpucog zec tod rem kighekatu garencup vapoanu. Gogco datvubaj bufejpe fum ke idido budtabun tebu junsaf lopisesot uhi zi dik iwoguor eg. Wubilruh ampab fi fijhiv dutzacuf apa todbu zetzaah evo nuj ja kahiga ow.",
+    "bio": "Do naefo feiriku uje togi zodetzo zi huler mimge uh gomavcup jetdadsis kisu. Gum vomlampi rohegsir tagdo egjedi wifkikwo socira ugu fo egi togetniv jorwigug noga tisu va se defur pumocrul. Ige inuwozul wegmouca etunak fumwotfop fupubosu jutmen silol degtu mejij ipihu duut pos betusa joditna."
+  },
+  "apiKey": "987f4d58261f90f4e03069f8308b7f30debb24b6282feb36e8689d953c29c8a2",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
