@@ -1,0 +1,26 @@
+{
+  "name": "Johanna Palmer",
+  "age": 33,
+  "address": {
+    "street": "Ciba Road",
+    "city": "Luhukna",
+    "state": "TX",
+    "zip": "86055"
+  },
+  "contact": {
+    "phone": "(988) 932-3468",
+    "servicePhone": "800386421"
+  },
+  "birthday": "1988-09-26T23:31:24.149Z",
+  "ip": "118.234.188.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Rot panpig wiscaef zu isevad weop dikcom daucazi bessevo so sif ehokib falorij. Mirfupre sik cunoc ihudpe cajmu goc udegajtej juddeso cebloca giho awujifriw gajlefun mik veccohiw va hemuc kopoci. Hohah ule bel zolasju moedago voegji icoefava ru otueb kos ciejevob dor acwo va. Me ur pukrehe uhomewrez miv vakvewe kiheruga mohod go co muk wuzugot noklanfup zibrawge oje ukaogodac zozzif motmib. Fozu dapete lazwat gadu dop poghorsa jogkapo hepa titom te natip ubi noahi jaztota tuedu uzkac do ziehopo.",
+    "bio": "Sajaf pu unakopuh ivo ru sokuto iseifpej vo boldi wud tofofjut ce. Ulkatu rebutmut wekon husco vehzuj honopaf te nuvubi ic tolefduj zon uje gidu. Kevurbev omubi wogju zumehge bizin kenip ic sakze gi horiir sovfezaf dub nihhuv ubaojori emne hiklipeme so oritanew. Zutu hota tar golewi jud zesice awmun gebcug ol kuwpufur lumapka abo zi tofgozgo."
+  },
+  "apiKey": "bccfba08df16e0f1655e7e349d16ad9123578f48c903a8ffabb90e3a6070f7b4",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
