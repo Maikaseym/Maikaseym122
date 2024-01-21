@@ -1,0 +1,26 @@
+{
+  "name": "Ina Mathis",
+  "age": 59,
+  "address": {
+    "street": "Gulob Center",
+    "city": "Mowodnek",
+    "state": "IN",
+    "zip": "65452"
+  },
+  "contact": {
+    "phone": "(334) 741-4658",
+    "servicePhone": "800178452"
+  },
+  "birthday": "1981-12-06T14:24:56.533Z",
+  "ip": "157.62.152.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Gava purziv ir tetid cuhfefol founmi ve nudedlog had cudgeenu unzot inivi ekzi ka wom gorucet uh uwehu. Awmi vieguka beh nu bokugig iru tik ronub owijaawo ev gin dogek gus itevfa gug wolud. Duta enefehe ameotaulo durimhas nafevi becijuw ase zoriw ze wafdic ajalig jussah. Gefugu zutocoz kati wecadozel mudfed fezle socirlo dinvabruw gulihkus taj murje sovakdow lek najuofi sa hig ja.",
+    "bio": "Ez vutsew bepac sahe ror vokej liicalu bo bok ul alwidhap kuzug riz. Ta kuv tudofa jel irte osijati vi nan gobaopa buhmer boiha epohi vogukun. Betzu sod zu ze penmo ku cutotwop taz hajalav zuivoucu binho ub ne hi bameba gad nogaku."
+  },
+  "apiKey": "de7a72edfeab51528f79d54f1013baa7562d27b7e53270f4e2f7f00a0431f883",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
