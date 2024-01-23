@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Drake",
+  "age": 59,
+  "address": {
+    "street": "Unefod Pass",
+    "city": "Aziupigow",
+    "state": "NV",
+    "zip": "85080"
+  },
+  "contact": {
+    "phone": "(325) 986-8301",
+    "servicePhone": "800275789"
+  },
+  "birthday": "2006-06-22T13:28:05.296Z",
+  "ip": "31.219.18.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Ziwahdi ni ugajir ba menvim oki lufu adjemvec toztoj haglubwuf kovi nih uduke gaw tov gizdav vi luwazfe. Ranuvep hujadoc fuscotem fuvotiiwa ref heoliaju tefo mil one nukgutoz hefacri zilaphab di ubujonad. Hoopir ozioho lizjac vit zore bu bi tep fu gehmu nunlobo gogtopko sa.",
+    "bio": "Ive uzi haz gano ecez lowu defkacsi digbek sulhir nakpon alezufru eba deg. Debtupcit pawwij awahu dalpakug aciso wapo ladcaim oge ulu ruigsuv ujuemrah vi hewabjok dih tiw melcokib hudcatac atsate. Afheju wenumdat regakaj wa tud cugmo dolaba in pohafobit we lo sojelujo hiv diwhus."
+  },
+  "apiKey": "2378fdcd7ceecc7d378c2c9c42b3b0c0f7d3c2b071e44cc3c64a2cc9495151f5",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
