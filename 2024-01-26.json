@@ -1,0 +1,26 @@
+{
+  "name": "George Adams",
+  "age": 37,
+  "address": {
+    "street": "Ovjaw Junction",
+    "city": "Wevcetwod",
+    "state": "AL",
+    "zip": "60402"
+  },
+  "contact": {
+    "phone": "(803) 728-4868",
+    "servicePhone": "800177322"
+  },
+  "birthday": "2005-01-21T11:20:01.157Z",
+  "ip": "21.81.232.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Puz gimerjuz naufe og fit ihu ajmo sosiwmon pufjofan natbina bit ufi jatna. Ba uhsug sotcuji si poocvas zo fo un biseac nofvavu hurar vaiso. Mazi bevfadab hosuhod bojatru ke so todtupih wo zi kuvubu buc ik. Lousubum ofieje don siheom lumomaru ejeszeb kizizob ihu omzamec li suhigfuf midam rocdoopi na kim fotefo.",
+    "bio": "Wokule fecuj zohneg cuez pizsimaj toweac itiba lu nes culo zorepav man ubci. Ahmil nu ime juwfucib puguc leg mecmerpe meiddav mevduc hergew ofekembeb vi. Zisno nimivece dib geslu jowba ohe nigic paggav sa mujbe emdofig kugkoceh loscosrec kuguc ru hog cuwneg mipo."
+  },
+  "apiKey": "54c826fe689a638c3d854c6c4c4787c7fdf6db1a61572317662e8a4cd778ef1e",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
