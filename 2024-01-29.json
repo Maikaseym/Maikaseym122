@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Kim",
+  "age": 41,
+  "address": {
+    "street": "Femiz Point",
+    "city": "Janomasob",
+    "state": "RI",
+    "zip": "26492"
+  },
+  "contact": {
+    "phone": "(687) 711-4820",
+    "servicePhone": "800586418"
+  },
+  "birthday": "2006-01-26T19:09:45.875Z",
+  "ip": "97.89.140.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Wiklib laho ohrub hososu kuhis sebnem jov roktejob utozened zefpude vuev inasi ucsefodi. Kujhopnid suptupvu wewrik lev cot werarewa bec baiz ev ri obusog ni. Kes fe cu kad cek ot hil ota kuc jo nemi jed ce ze behen non. Halis gawuzmuk haeb besanfu kimmupo ziv pawezo wa mucovo inef fitduem isedateg rijnas. Goji do jefoadu sij un dokar rica zesi kam ob vol neja fowemo semepid hikducde.",
+    "bio": "Ulfout paw udgohir nitutwez igivuran dagnauzu tucajva vinlibo bel teletut sozluku uti. Ihi zijbieli fen zace awduc an cubepob an jizkud diihu gel sanjucdig zaekken pesbel. Rubhad zicokiko to cavton omrewroj gisub kop how cahusoz cowdim fuzus boanawa hovbata kaog fikhejze omaviztu tukeru."
+  },
+  "apiKey": "045ce7905b9c942f174db2a053f5166eed87847572875995da7131136e2328ef",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
