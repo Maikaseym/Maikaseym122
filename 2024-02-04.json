@@ -1,0 +1,26 @@
+{
+  "name": "Tom Park",
+  "age": 50,
+  "address": {
+    "street": "Zagap Trail",
+    "city": "Illocug",
+    "state": "TX",
+    "zip": "29386"
+  },
+  "contact": {
+    "phone": "(667) 643-5606",
+    "servicePhone": "800695155"
+  },
+  "birthday": "2005-08-22T21:14:40.241Z",
+  "ip": "111.23.28.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Upasika kerbar cadgaki gojiven biptatado bija hu pazwal damlabcaf wajrug si ciwagjim jo dis. Awnubeh seisaipu toicka ban panubana ilide neh holor mon red dodami osubivazu kicninoko arjewtig. Vunzojmib siwi jej ibici mekitpol aseojme ipomenij ac urho ahulebwi zen ce do.",
+    "bio": "Cacajas gid naprop room tam zendeule jirugogo oplok zikiner be lawepari lo vuw on. Le umo cutos ceg zug zoom mo docowa ci jewa datcucuga sajfuh jiniwac. Di rurro emic ajzuaju pacava citbo ivo jomafur rirupap adevuihe cihle liwoco jascu co ac cez kinjuuca."
+  },
+  "apiKey": "df56f3fa6f0a518eeb9520961d367cdd5fb433aa30cb0c1417fb73735da1c41a",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
