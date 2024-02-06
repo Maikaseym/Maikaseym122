@@ -1,0 +1,26 @@
+{
+  "name": "Mario Cohen",
+  "age": 19,
+  "address": {
+    "street": "Pilide Circle",
+    "city": "Kivpokleb",
+    "state": "NY",
+    "zip": "61758"
+  },
+  "contact": {
+    "phone": "(962) 846-2101",
+    "servicePhone": "800181287"
+  },
+  "birthday": "1989-12-17T11:55:19.809Z",
+  "ip": "70.164.202.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Tevzurese nuk josegtuv ral ajuguriz hapjaap wugir nuvuco sihhe boc nakmod ruwow edefojuk ewalob kif. Nefpoha wusibi jubzib bi heh dufihemih ahetozsol dulirow eme logte kumpiwij ijapervev omotezol kibtarija ru ron nipke. Udifi jev jihmoze lihecem pok bansi gug nu go isawikwa ulzo gutota puhpujin pawa tek odunaz. Asote fizgo udelu fo goag si dipus wajenof rabujowi lur jo mijebma gu.",
+    "bio": "Fe logema du na lubagte sewuj pob kif ibiarjo ih mevo kevinod biufat. Wusewozu sufho iriipido ahcos wefwe nu zarrovvu rustopur ifazje covbeuze udfol diw jomuf gatezovoz vetazpu afu moz parum. Hikwev sebi maj finese hah jerifros hefun iccub ulifa pulitku kizupsi wubrijsaj wokbirej."
+  },
+  "apiKey": "7ca1fb0dbc43689ad82c2908b8cb019e98f08e8fa685dd7b9ef4d437efe6972f",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
