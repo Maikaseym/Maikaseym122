@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Higgins",
+  "age": 51,
+  "address": {
+    "street": "Jeim Loop",
+    "city": "Kogaka",
+    "state": "DE",
+    "zip": "71707"
+  },
+  "contact": {
+    "phone": "(445) 408-7683",
+    "servicePhone": "800929753"
+  },
+  "birthday": "1996-10-12T12:28:38.807Z",
+  "ip": "46.89.185.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Ho rivuz huzaz ja ha ragosu dugwoc obo zewjiwdik ihuledji de za po ano peomhum. Febodbok dagofen sofozodu valkorcu aflu vo vi hadno te rephacen tianuw fawuvuf tasis ti hip. Kabwo ufzi buvso afgam vaibsug cek jijzanlu tukol baahcew otecofi muama ri.",
+    "bio": "Tehhiip vaudev zegcilga lavuam mi atsejefe copezsul bipduenu jotrehap mislod ik jotujo tat upci latwir olezutne. Bigwelzic teapo udliceb ag egafe wovakafi penotoz ticag jag bid ajeos arbijap sukir bazahigo ge jusuha. Ifaini we of ce rah let dobragit orih ape sig vemra itde wiivibeg vizok wunohol. Pupugbal gefzerog me iwmamwo emacu tace fa vuvo doz ihmawmo fujzu sonpouti vo rupbelim bojuwso havihror ref. Miape cu jum wizjolpid sokgurol pepu zarjo ab buci tewa erze bitunrov. Dopsiufa his zopsafwi hihnam winzu sov sam lilkeh huz mu vorkun naal lawnojgiw tihid vawowul pupo peleffol."
+  },
+  "apiKey": "09e412cf0e9d1576d33ca08e080df56d1af8ea95cde804bcca8a0d6296a5bbda",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
