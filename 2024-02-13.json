@@ -1,0 +1,26 @@
+{
+  "name": "Leona Baker",
+  "age": 36,
+  "address": {
+    "street": "Moba Junction",
+    "city": "Padalgus",
+    "state": "MA",
+    "zip": "18497"
+  },
+  "contact": {
+    "phone": "(778) 833-3390",
+    "servicePhone": "800248527"
+  },
+  "birthday": "1997-04-22T12:31:21.957Z",
+  "ip": "129.181.13.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Na nu uk mo vifad sizacric lak tiiju cuwutek ace uhro si ovu cimivbi rimhi hatuku gih. Cej zagdoz zar fu lomibec aswu vinufu hi depo weole miwib gu lenugji. To fumad hebas lucpuson lac beracaki lojtap sukciofa ejaibito va teafa fidu suk ve lo nis kir.",
+    "bio": "Ceshik poj liw teku jenunu nof zocif dej wavjok ran adise agi pij. Wiekfug leh cuvebif sep ratemmu vubavijod ra omfejal ojied nuzmu sode febma duc uro upi akpu saiha renavo. Hejocegec cu ofjeka mano deofe okiza wencu tilzu bozjuhzis zol ehogi jitko kof kew dim hem saw raze. Wiru muco vufvipa ofapuwe ziodu sagal funjal moku om ajhez zirufo rojgaan."
+  },
+  "apiKey": "a4df99640567642fbcfd09e298f0febebe43fbcd52a30f1eeda8e0df9adb72eb",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
