@@ -1,0 +1,26 @@
+{
+  "name": "Gary Marsh",
+  "age": 50,
+  "address": {
+    "street": "Emsob Trail",
+    "city": "Zuwrezdoj",
+    "state": "NC",
+    "zip": "34802"
+  },
+  "contact": {
+    "phone": "(344) 536-7502",
+    "servicePhone": "800795415"
+  },
+  "birthday": "1989-03-04T20:43:41.779Z",
+  "ip": "41.36.107.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Aji nolwosi ki ap lispetna ibsu meh nefarge woza jagi pe bigwe. Magoz zarof acdoko kudhehaj ru enu sovabwah ecawul fadi decci vumji anup lapuhoiz dubedlon fefgocer. Lerhu zememdi juisfa rujca zelet jotelfop du ad nuluf neslef gime tu epe ohosewruk. Taamo sevom wa rosidnoz izoturuh dosferlud ladcis apivepuf cilbo eple gohi ijo nucdub wij mezodsub mestaoj. Edibaj esaga ebacaefo jec sesnoldas suribas got jam til kuita lufnurma nasitli okojusum sakebo nodbomji sik. Pi len ga tuc ju zo limvihi guncel jot akaotba odibo nozut kugip balien.",
+    "bio": "Idcijta cosusbi sew defifwiw lo foohnod buvo obur da keszi jo zesij dojamieke tadluwu zunab gupgofwi su okdis. Repvil bewuv cehvib wibhel dep rawtap omiuw hivguwfi pudhuvala peh efo ugululpeh hov foguzce ke motno fuvfuwi du. Lebjav bamo utwoc vecafi capom tipu vi acko bin bozfov won neopac oje giem vedu sazdido. Daes zusalvab teriv gal pan kuocbo bodgaw foculwa ohzunne im se kamno omzawik gislut gume zednagaz. Hamimuij sibnuhpan jug ig ipapu fauju ka niksonbez de zujjub malvibsor ojuwi. Miubize idpe dijfi oc dufo zukjuv nofofo gobdom et ti ce nubkasol wicvonwew cu bubhu."
+  },
+  "apiKey": "d54ecd3a3121bbf07e533a3e89b0c58b73360b04b00cf17a096f6ac188e859b0",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
