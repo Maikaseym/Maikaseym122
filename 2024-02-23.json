@@ -1,0 +1,26 @@
+{
+  "name": "Lou Gibbs",
+  "age": 19,
+  "address": {
+    "street": "Vuav Turnpike",
+    "city": "Jublomsu",
+    "state": "WY",
+    "zip": "10431"
+  },
+  "contact": {
+    "phone": "(612) 393-8924",
+    "servicePhone": "800894996"
+  },
+  "birthday": "1990-01-13T05:19:36.262Z",
+  "ip": "164.147.211.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Las lehda cih fif wagud vo fedarwel bicsu vawgi aba teciriacu ha mepze uzetulu afu useir opco. Jejafpog hes saserjuf zamewbu wedeg pejialo lolgahi mikita odigpuh fah wobholis az oltog votti icra vo awsi ik. Aw wej opa bav hersisci cog catgu hewke wehogak haw ci fig mo si sab.",
+    "bio": "Mit ef te apra babwecbam noboj vez bikvi winun ocupov iki per rupme redami hadurefo ideepune pub ejpazli. Anriawa uka kood ickima fuju dewar eror cicake igofe ruti pazalehu nophigle vilez wa. Je ajolingi ta gom mevuv cubuhu we ur busito kapcidki relbenub gerekifu wu ahsudu ge tasar pohlagto."
+  },
+  "apiKey": "705f2b77099e55b51dfc2799f8224b26b473db2adcedc259617f94215ff9a3c9",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
