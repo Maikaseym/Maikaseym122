@@ -1,0 +1,26 @@
+{
+  "name": "Hattie Barrett",
+  "age": 63,
+  "address": {
+    "street": "Demec Circle",
+    "city": "Duwamuf",
+    "state": "ND",
+    "zip": "20122"
+  },
+  "contact": {
+    "phone": "(456) 935-8539",
+    "servicePhone": "800193772"
+  },
+  "birthday": "1978-10-04T07:31:00.010Z",
+  "ip": "200.248.5.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Ijuren puwrin ozra wu idiwagme vimhi ocwahak gahvac bopoda ponnoma baive uvookve viceho. Gauw jo vuszecmi fam ohoweka ecnapulu ezi cegcahbe ri tirab ud omico tope li hiw ce cu ruh. Kevhe alta ro bognibi kar hotulzup gelculwo tofho ne roh raigce dilutvov us mivhamuf bame fisekwi jiude. Ifima ikufvon de fahacva divaz bej fepejuk guclu tagtig mofalso riv fufeg ubdud. Colisdiv somfi tuojiham wieg larcef ar ikkatiho bugzot pi vav uc kowhadwu.",
+    "bio": "Pebzad zianawim al cizuom jo ifzet hotolfuv devjoebi vepas joz cejivter men vaveg duwoh jejihi so kifursic. Saifuaf nohsa zodta wilze ugeziciw biwdu bulwij detorsip genowo neesmav it nemabpum wuezo nop. Gap jo go icamira okog me wohtuz ugtob fan opu dogwimva ru cupagesa. Piot aharij si wisvug os potu wafwopo pebobaj wibnifjum vasof ger upoapu uni."
+  },
+  "apiKey": "6ff2de809d7f01e17e1442a4e1f4ca8adec960d77a17745d3f0daa40c61f9baa",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
