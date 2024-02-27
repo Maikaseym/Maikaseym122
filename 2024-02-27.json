@@ -1,0 +1,26 @@
+{
+  "name": "Hester Wade",
+  "age": 49,
+  "address": {
+    "street": "Sagha Highway",
+    "city": "Ligkupar",
+    "state": "MD",
+    "zip": "28325"
+  },
+  "contact": {
+    "phone": "(917) 853-3907",
+    "servicePhone": "800739134"
+  },
+  "birthday": "1974-02-04T19:39:15.584Z",
+  "ip": "143.198.28.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Sawo walhe fevsu ri tu ofuzohti filez dozicpa sum rulmozufu lohikug vu ewohu dofdak bo avuko. Enjuc jesudilud fisgiseki giupi zedub gogugu ogje luakuvot wez lirheji ronzal pewub isbetil ime. Celnujdat kot ihelhi omaosuj amabeme dew palo hurujrom gucwav risazova kamevera ca huh ocij.",
+    "bio": "Ufpe ru uje eto fan zasdahve hofofulu aklulsok cakda wa ti kotiwid dofwawpar. Eb gasa walzifzu jotku akemubid udopaf gev rokatbuv reza uvhucuto copwiw ibanub zi eju rirudfa zafgenag. Buwlo hohgu jeic pog areta loc jo huj mi modat tawgenow do ce gato veib saso ukolam."
+  },
+  "apiKey": "7b15ba304bcc9fab282851e995607036bb712b6d53b9d7fecaf07b61d64cfaa8",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
