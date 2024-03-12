@@ -1,0 +1,26 @@
+{
+  "name": "Michael Scott",
+  "age": 40,
+  "address": {
+    "street": "Gehgel Plaza",
+    "city": "Gowtafog",
+    "state": "PA",
+    "zip": "60566"
+  },
+  "contact": {
+    "phone": "(620) 971-7505",
+    "servicePhone": "800679776"
+  },
+  "birthday": "1984-11-10T21:49:17.005Z",
+  "ip": "33.42.107.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Umuuf bidne lozo ro eg kubbi tigacgo fit fafsepcak macuid lifekgin sadnor. Awo vo anzik uwogu ekorireb he ev gosome ace vo mompurko veltabweb alopaga zugudi diuclov. Iviwu ugi oj se laloh wod etzebac kafef ro lozuota vechikop baipa acuemose ipuvapfi kofe hobapdig baito dejerilat. Job melu jatjiaw pab oca sin cewarudaw limazih di cupij fohilzis fihacmu gamoz terew korbicut. Wopa sopkezmam bezapaw sisko sogwihce gum wiv retafvi bog ko fuovu rialva bewepco mem jipi kefvik mi ekauza. Muzar webtiogu bivpekiv kowucaza wi cuj nuko lizo pa febciz hov bozbon ri po ato ancov itho.",
+    "bio": "Macogab lenfu cimu dovome dojes paammiv elhocod warwiba aget bo govin gota hiluscus umkinpaz. Jemfa ha fo mis jaw jeube ku bat uliil tip fi oluzaful poril ernar el ujuizemo zepi. Nir gecul ewacuvid gihtahrah ipu zam go jippozup jivuhke lagwatugo rebhenza maromiet rimapaci feip."
+  },
+  "apiKey": "7766e73d457d8f217dfe0f5e9f9d5a0f18a10357d211fb90ae7f2f686d91a41c",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
