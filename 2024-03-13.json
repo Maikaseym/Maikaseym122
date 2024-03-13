@@ -1,0 +1,26 @@
+{
+  "name": "Caleb Young",
+  "age": 28,
+  "address": {
+    "street": "Benhi Path",
+    "city": "Buveror",
+    "state": "OK",
+    "zip": "15681"
+  },
+  "contact": {
+    "phone": "(878) 546-2643",
+    "servicePhone": "800882143"
+  },
+  "birthday": "1981-11-22T02:41:19.761Z",
+  "ip": "6.24.36.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Sokawla nanopow pewip fuvtibteg wuejo zu ha seegezob pacupag ivu nu sepcapad kusubet nalakvar jewkibzo vuz wat. Muf johsojum tulomsig havnal ij helgid dopul supo mavpuwik jar ule ohi fuot idi kuzo ami. Golokzen poridli pep secufu la vob fa su eti zed worid led momhu zottij.",
+    "bio": "Gekug ni raikegu izulo veci jaru rofocica nelawde hewsokim putu lawopo pi zutumuc kovi ulze. Nagme sin ipocovfo tuz fon co zimoguj osacofec uplitom faheb ec cunohahoc hu ekicupoka. Zahji fahle abre ana edfe ir emi goftawmo uj culmivla hiz puta zaolo roel di ditzif."
+  },
+  "apiKey": "d359da5836fd13fcd3affee46a7869a8d133c46637e7d005eb5193172e01f7c2",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
