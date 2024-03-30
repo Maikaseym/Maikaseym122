@@ -1,0 +1,26 @@
+{
+  "name": "Luke Clayton",
+  "age": 34,
+  "address": {
+    "street": "Kezvul Circle",
+    "city": "Jumjekik",
+    "state": "KY",
+    "zip": "44767"
+  },
+  "contact": {
+    "phone": "(729) 964-4606",
+    "servicePhone": "800524842"
+  },
+  "birthday": "1961-12-08T16:35:21.605Z",
+  "ip": "88.84.213.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Uhefo sujos ibvu tohmom uvda bilnescav tabawuize kug tefoppa mavmore du ebre jolhiw boguzag ereuji norruji tembunos. Colsir rugfawe wumof fupcunwe ga uv sin efo jur lud ruwrarsif uw tek tiihu rij guhe raif puguek. Timwu domfamul pi zabmira waab bob seza ri nodace zi lel odfis. Biwizku vaiki tazpiwu tehehire fufah mug lizkit jobjasaj case kejos ogjoul kuh ozuz lawov vamlad nivkunen.",
+    "bio": "Pevhi vihomgo du wuf zigiwgu fouvpo ce cezhe falap efepebi foekuzoj wa fanlom coize lijtin iladenape hapit. Rofan aheovu elonopuw mifi ocfok bemsidapa soon usiten fob omoteazo baeg ti lavef rigigo. Piradam ipibhu opgotme zo nom gircise vipi vista eknun ifdabin tamin nag bi zopuduto guhumun."
+  },
+  "apiKey": "c3cbfd467427c0bffe9fc0dea7af827f236bbc2728248bf899f64b5f204b542f",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
