@@ -1,0 +1,26 @@
+{
+  "name": "Ada Cortez",
+  "age": 37,
+  "address": {
+    "street": "Gice Center",
+    "city": "Hikvosuv",
+    "state": "ND",
+    "zip": "30002"
+  },
+  "contact": {
+    "phone": "(587) 791-3073",
+    "servicePhone": "800414845"
+  },
+  "birthday": "1976-05-19T20:42:17.657Z",
+  "ip": "6.170.72.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Rom oracolis ninsarugi muhin vukicjij vofim pazal laolfi fe bucnu jenipnag ceh fufutga. Zagnas hojhuc cadige pinfo zeritavam pekuk bemropso dor zeh figoz keto va gebahi ne selo pane. Nu halelrov locuhot baj odoak pivekopas jidwo aza huf uh lewobjib fazo honatge pilsuva zodu.",
+    "bio": "Cibfo gez bul jacga feslidez eha ociaji ezipazah golag modereg li cufboto kezun gud. Feha ub biwadke onimulo des fuwisri oli ij bu vezozlav mupmowo wimri kibgi hon haruw zocire kaifa. Desihi rejejfa naf jamfeen vat heoseus ifumavo hencic ud ojareb bo alede por ji. Omi wevuwvu to gen hektoda fon rumvi hudovwic ta vedri megpo wugu."
+  },
+  "apiKey": "31debce5cb7960850cc050128d3f9bdb6a35faa1aef86a1bfd9e8a7028d2bd18",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
