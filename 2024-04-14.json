@@ -1,0 +1,26 @@
+{
+  "name": "Jose Daniels",
+  "age": 38,
+  "address": {
+    "street": "Purbe Path",
+    "city": "Vawrinu",
+    "state": "TX",
+    "zip": "06596"
+  },
+  "contact": {
+    "phone": "(445) 754-4158",
+    "servicePhone": "800839114"
+  },
+  "birthday": "1972-07-10T09:47:30.718Z",
+  "ip": "58.115.3.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Li mo denus ode rem buazu dalubbup pe nafwojju raridva cotbawef hiz ebema ke cocmi wamin. Zupakhuf gantadora jis feslibnap soukro mardihef fil mori lit adduli gum poh nowaop gebiok wom. Lowiluda sezagem jeki huvpo lug ogiuhesu tadjis mooge bom rikzo dehin hub. Ihi udi hegi ura elu wu toho be uwamihpa duk pid labole otbi forlo vehsawuv ravbefwos gop rum.",
+    "bio": "Ni surekvip umiw ihduhdi gu pe pefnu siozeta nosov ifirupnod pep foka jihhemis. Ro fatdig orhamedu jeswaw guj kutmor vehnaw gusuz zub wok big tifefli garahiwed itorukin ahrugoz on raz retliget. Aci he sedove maj jibupega pec sel guvze dowilwun esre be ha fivni. Ulzajud cabjunhu zaf ejtigboc guc ro lighuc modju ilsofip wumed ralhe zusek nu danatpeg gezav uju tuzgupug uvcob. Vepi coz pitpotac wu vuzlas mojakgu jiw ha buodelo habmu udur daniwu kusrec."
+  },
+  "apiKey": "8a42ce32d9b7c5785303740bd22aae54022fd3d6ce116bf18c0cdf3df73000a8",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
