@@ -1,0 +1,26 @@
+{
+  "name": "Steve Banks",
+  "age": 25,
+  "address": {
+    "street": "Vizrip Turnpike",
+    "city": "Fikumir",
+    "state": "VA",
+    "zip": "27718"
+  },
+  "contact": {
+    "phone": "(915) 315-7984",
+    "servicePhone": "800956575"
+  },
+  "birthday": "1975-05-04T09:09:11.416Z",
+  "ip": "138.186.0.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Ujadu fihucevuf wabzil ajog gaop gir kujhel feozbik razemzug vaful pabikaw wej ap. Jo aso inpevke tujan avba hukculaj nujavwi fedloz cekzi hozaco senasuji gizi sij rom pa doftecnah. Ralov fidumawaw de ejupaevi depiamo dutitez wianowob zezaw apuhi esi la ujotu. Do poz kib ma nokisuliz gejalueci akmekmat hav dakom ete iku ipdusi lib nojupegi riubco vu teensiw.",
+    "bio": "Zadba wourasu gefwive rej vemif ohogaih zo cuvin te utogiv mubtuz hu muhsepu wiwo otilagof fe fas. Us jilbuz neviare lavme vautfew zawugne suowro faev ihe etejun kigoso pehil iwnoj gi olewuhipe. Setom tev nian iwvuos aluro zekno do nedpib votrim wow ideadteb mi dileak niv cuhokej te. Asudiho se soge mis bah opov telzu fapnuohe zupi la gitman rac kaigu zivmuvol. Ridte getnih po cilnit bukgen bawiba vevipgu dacec ugaw wilanas tubet fikuhkuv bur go bufsogik ca di sitov."
+  },
+  "apiKey": "02f4230ec9c512baa3d5fe672159d1a716e7f0f342ade4269e63e84507f50fa3",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
