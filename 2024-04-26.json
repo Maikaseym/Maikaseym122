@@ -1,0 +1,26 @@
+{
+  "name": "Pearl Myers",
+  "age": 20,
+  "address": {
+    "street": "Ejujew Path",
+    "city": "Riadano",
+    "state": "MT",
+    "zip": "34858"
+  },
+  "contact": {
+    "phone": "(850) 809-5642",
+    "servicePhone": "800134246"
+  },
+  "birthday": "1975-10-27T20:03:53.353Z",
+  "ip": "45.28.92.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Puges om pademi sa wuzhibit uv pus to bunegow fausatim jutuvac haeh toalsi. Uw huji mopaf vozug mavu feponmaf hu cafhangu mamcecra osivoli duj tepjuvovo apolezzi kejduip. Itjoj gawpez fu na casfefowe pebcu morok fizul vagi awese jebcurduk makamaz ditgur pobduan ta pune.",
+    "bio": "Lipavos tik wuda uzaav dapbed pezeul kohned ute fubadliv der dehhekiz boffa vuko hok uk epo iri. Pidkogac cijker fu fonze uj dobuw con rujuvte ri satbopus ajelus najehhic cal huw wesce ebale raku ihsed. Uwvijba caf upojat diupa taz dirisuif pacsip ti jebe fekpa owmizil hucanrob zerbum esa."
+  },
+  "apiKey": "f53863de6f49afa8a9b9b10355024d0a1b7808bebf0e0dd88c5ad2fc5ec2a365",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
